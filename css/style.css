@@ -9,3 +9,8 @@ p {
 h1 {
   color: blanchedalmond;
 }
+
+.protein {
+  color: rgb(74, 193, 90);
+  font-weight: 600;
+}
